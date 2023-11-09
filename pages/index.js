@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Andreas is a kloana hosn scheißa" />
         <p className="description">
-          Andreas is a kloana hosn scheißa</code>
+         
         </p>
       </main>
 
